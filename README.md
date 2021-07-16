@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+Hi
+
+I'll be a Python pro soon.
